@@ -13,6 +13,8 @@ namespace WindowsFormsApplication1
         public Form1()
         {
             InitializeComponent();
+
+            get11();
         }
         private void get11()
         {
