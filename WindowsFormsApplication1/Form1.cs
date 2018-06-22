@@ -14,12 +14,12 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
 
-            get11();
+
         }
         private void get11()
         {
             string dss = "ss";
-            string dss1 = "ss";
+            string dss12 = "ss";
         }
     }
 }
