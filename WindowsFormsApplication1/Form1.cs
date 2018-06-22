@@ -13,13 +13,11 @@ namespace WindowsFormsApplication1
         public Form1()
         {
             InitializeComponent();
-
-
-
         }
         private void get11()
         {
             string dss = "ss";
+            string dss1 = "ss";
         }
     }
 }
